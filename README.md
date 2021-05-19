@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Mihir Chakma.
+
+### 🌱 I’m currently learning C++ Programming language.
 
 <!--
 **chakmacodes/chakmacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
