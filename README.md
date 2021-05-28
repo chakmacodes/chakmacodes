@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Mihir Chakm, aka ChakmaCodes.
 
-### 🌱 I’m currently learning C++ Programming language.
+##### 🌱 I’m currently learning C++ Programming language.
 
 <!--
 **chakmacodes/chakmacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
