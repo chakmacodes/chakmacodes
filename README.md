@@ -1,4 +1,4 @@
-### Hi 👋 I'm Mihir Chakm, aka ChakmaCodes.
+### Hi 👋 I'm Mihir Chakma, aka ChakmaCodes.
 
 ##### 🌱 I’m currently learning C++ Programming language.
 
